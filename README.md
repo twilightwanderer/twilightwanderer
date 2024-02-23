@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About me
 
-I'm an understudy developer from 🇷🇺 Russia. I know a little bit of everything. Recently busy developing builds of 🧑‍🚀Space Station 13.
+I'm an understudy developer. I know a little bit of everything. Recently busy developing builds of 🧑‍🚀Space Station 13.
 
 ## My skills
 
